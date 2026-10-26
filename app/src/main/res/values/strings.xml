@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmallPic</string>
+    <string name="tagline">Shrink photos to roughly 10% of their size.</string>
+    <string name="pick_images">Choose images</string>
+    <string name="optimizing">Optimizing %1$d of %2$d…</string>
+    <string name="save">Save to gallery</string>
+    <string name="share">Share</string>
+    <string name="row_skipped">%1$s · already small, skipped</string>
+    <string name="row_failed">%1$s · couldn\'t be compressed</string>
+    <string name="saved_toast">Saved %1$d to Pictures/SmallPic</string>
+</resources>

@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SmallPic" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
