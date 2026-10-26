@@ -1,11 +1,16 @@
 <resources>
     <string name="app_name">SmallPic</string>
-    <string name="tagline">Shrink photos to roughly 10% of their size.</string>
+    <string name="tagline">Shrink photos to a small fraction of their size.</string>
     <string name="pick_images">Choose images</string>
     <string name="optimizing">Optimizing %1$d of %2$d…</string>
-    <string name="save">Save to gallery</string>
+    <string name="saving">Saving…</string>
+    <string name="save">Save</string>
     <string name="share">Share</string>
-    <string name="row_skipped">%1$s · already small, skipped</string>
-    <string name="row_failed">%1$s · couldn\'t be compressed</string>
+    <string name="empty_body">Pick photos and SmallPic shrinks them to a small fraction of their original size. Everything happens on this device.</string>
+    <string name="row_gain">%1$d%% smaller</string>
+    <string name="row_failed_label">Failed</string>
+    <string name="row_failed_reason">Couldn\'t be compressed</string>
+    <string name="row_skipped_label">Skipped</string>
+    <string name="row_skipped_reason">Already small, no change needed</string>
     <string name="saved_toast">Saved %1$d to Pictures/SmallPic</string>
 </resources>

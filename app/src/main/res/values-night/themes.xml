@@ -1,0 +1,7 @@
+<resources>
+    <!-- Compose draws everything; the launch theme only avoids a white
+         flash when the system is in dark mode. -->
+    <style name="Theme.SmallPic" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#1D1B1E</item>
+    </style>
+</resources>
